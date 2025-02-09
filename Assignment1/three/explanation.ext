@@ -1,0 +1,3 @@
+this code i thik it follow the single responsibility as i made seprate class for diff. payment method.
+the wee can easily add any other payment method if needed, also the sub class inherits all the rules from parent class.
+the interface too has only method where no class is implementing other class main class is also not depending on other class.
