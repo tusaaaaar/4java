@@ -1,0 +1,8 @@
+In thsi assignment the Penguin which is a sub class of bird but not inherits all the responsibility of the bird class.
+
+And according to Liskov Substitution , all the functionality , responsibility should be directly inherited by the sub class and should be usable  by all sub class.
+
+for refactoring the code so that it follow the lsp , i made the bird class as abstract and kept only the functionality that all birds can inherit.
+
+and made seprate class for the flying and non flying birds.
+now error will not be tere because now subclass inherit things without voilation the principle.

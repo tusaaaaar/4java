@@ -1,0 +1,6 @@
+in the given code the Employee is doing three works,keeping data of emplyoee ,printing things , and storing into database. This is voilating the Singel responsibility principle.
+
+For this i made diff. class of each responsibility but to for saving the data also in the FILE Storage it we need to mofigy the code, this is not good as we follow OCP . So i made interface in which we'll just save() not specify where, now bs by adding nwe class things will be in line with ocp. now it the code is open for extending if any other storage has to be added.
+
+
+
