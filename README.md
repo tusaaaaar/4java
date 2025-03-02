@@ -14,10 +14,10 @@ This folder contains all the **assignments for the Advanced Java Lab (UCSH-605)*
 This assignment focuses on **network programming in Java** using **sockets**. The objective is to implement:  
 
 1. **One-to-One Connection:**  
-   - A basic **client-server** model where a **single client** connects to a **server** and communicates using sockets.  
+      A basic **client-server** model where a **single client** connects to a **server** and communicates using sockets.  
 
 2. **One-to-Many Connection:**  
-  - This program demonstrates a **multi-client server** using **Java Sockets**, where multiple clients can connect, send messages, and have their messages received and displayed by the server.  
+      This program demonstrates a **multi-client server** using **Java Sockets**, where multiple clients can connect, send messages, and have their messages received and displayed by the server.  
 
 
 ### **Technologies Used:**  
