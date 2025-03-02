@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class ServerSideThree {
+public class Server {
     public static void main(String[] args) {
         try {
             ServerSocket ss = new ServerSocket(6666); // Server start ho gaya
