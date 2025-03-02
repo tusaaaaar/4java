@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class ClientSideThree {
+public class Client {
     public static void main(String[] args) {
         try {
             // Server se connection banane ki koshish
