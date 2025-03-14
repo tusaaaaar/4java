@@ -51,7 +51,7 @@ public class one
 		dbsave.save(emp);
 		
 		EmployeeData fsave = new SaveToFile();
-		dbsave.save(emp);
+		fsave.save(emp);
 
 	}
 }	
